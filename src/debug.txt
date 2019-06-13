@@ -1,0 +1,716 @@
+line_buffer: goodbye
+line_buffer: hello
+line_buffer: 3
+line_buffer: 2
+line_buffer: 1
+line_buffer: 1
+line_buffer: 1
+current cursor_pos: 16
+line_buffer: this is a steat
+
+current cursor_pos: 15
+line_buffer: this is a stea
+
+current cursor_pos: 14
+line_buffer: this is a ste
+
+current cursor_pos: 13
+line_buffer: this is a ste
+
+current cursor_pos: 12
+line_buffer: this is a st
+
+current cursor_pos: 11
+line_buffer: this is a s
+
+left arrow:
+current cursor_pos: 10
+
+left arrow:
+current cursor_pos: 9
+
+left arrow:
+current cursor_pos: 8
+
+left arrow:
+current cursor_pos: 7
+
+left arrow:
+current cursor_pos: 6
+
+left arrow:
+current cursor_pos: 5
+
+left arrow:
+current cursor_pos: 4
+
+left arrow:
+current cursor_pos: 3
+
+left arrow:
+current cursor_pos: 2
+
+left arrow:
+current cursor_pos: 1
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 18
+
+left arrow:
+current cursor_pos: 17
+
+left arrow:
+current cursor_pos: 16
+
+left arrow:
+current cursor_pos: 15
+
+left arrow:
+current cursor_pos: 14
+
+left arrow:
+current cursor_pos: 13
+
+left arrow:
+current cursor_pos: 12
+
+left arrow:
+current cursor_pos: 11
+
+left arrow:
+current cursor_pos: 10
+
+left arrow:
+current cursor_pos: 9
+
+left arrow:
+current cursor_pos: 8
+
+left arrow:
+current cursor_pos: 7
+
+left arrow:
+current cursor_pos: 6
+
+left arrow:
+current cursor_pos: 5
+
+left arrow:
+current cursor_pos: 4
+
+left arrow:
+current cursor_pos: 3
+
+left arrow:
+current cursor_pos: 2
+
+left arrow:
+current cursor_pos: 1
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+right arrow:
+current cursor_pos: 1
+line_length: 19
+
+right arrow:
+current cursor_pos: 2
+line_length: 19
+
+right arrow:
+current cursor_pos: 3
+line_length: 19
+
+right arrow:
+current cursor_pos: 4
+line_length: 19
+
+right arrow:
+current cursor_pos: 5
+line_length: 19
+
+right arrow:
+current cursor_pos: 6
+line_length: 19
+
+right arrow:
+current cursor_pos: 7
+line_length: 19
+
+right arrow:
+current cursor_pos: 8
+line_length: 19
+
+right arrow:
+current cursor_pos: 9
+line_length: 19
+
+right arrow:
+current cursor_pos: 10
+line_length: 19
+
+right arrow:
+current cursor_pos: 11
+line_length: 19
+
+right arrow:
+current cursor_pos: 12
+line_length: 19
+
+right arrow:
+current cursor_pos: 13
+line_length: 19
+
+right arrow:
+current cursor_pos: 14
+line_length: 19
+
+right arrow:
+current cursor_pos: 15
+line_length: 19
+
+right arrow:
+current cursor_pos: 16
+line_length: 19
+
+right arrow:
+current cursor_pos: 17
+line_length: 19
+
+right arrow:
+current cursor_pos: 18
+line_length: 19
+
+right arrow:
+current cursor_pos: 19
+line_length: 19
+
+left arrow:
+current cursor_pos: 18
+
+left arrow:
+current cursor_pos: 17
+
+left arrow:
+current cursor_pos: 16
+
+left arrow:
+current cursor_pos: 15
+
+left arrow:
+current cursor_pos: 14
+
+left arrow:
+current cursor_pos: 13
+
+left arrow:
+current cursor_pos: 12
+
+left arrow:
+current cursor_pos: 11
+
+left arrow:
+current cursor_pos: 10
+
+left arrow:
+current cursor_pos: 9
+
+left arrow:
+current cursor_pos: 8
+
+left arrow:
+current cursor_pos: 7
+
+left arrow:
+current cursor_pos: 6
+
+left arrow:
+current cursor_pos: 5
+
+left arrow:
+current cursor_pos: 4
+
+left arrow:
+current cursor_pos: 3
+
+left arrow:
+current cursor_pos: 2
+
+left arrow:
+current cursor_pos: 1
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+right arrow:
+current cursor_pos: 1
+line_length: 19
+
+right arrow:
+current cursor_pos: 2
+line_length: 19
+
+right arrow:
+current cursor_pos: 3
+line_length: 19
+
+right arrow:
+current cursor_pos: 4
+line_length: 19
+
+right arrow:
+current cursor_pos: 5
+line_length: 19
+
+right arrow:
+current cursor_pos: 6
+line_length: 19
+
+right arrow:
+current cursor_pos: 7
+line_length: 19
+
+right arrow:
+current cursor_pos: 8
+line_length: 19
+
+right arrow:
+current cursor_pos: 9
+line_length: 19
+
+right arrow:
+current cursor_pos: 10
+line_length: 19
+
+right arrow:
+current cursor_pos: 11
+line_length: 19
+
+right arrow:
+current cursor_pos: 12
+line_length: 19
+
+right arrow:
+current cursor_pos: 13
+line_length: 19
+
+right arrow:
+current cursor_pos: 14
+line_length: 19
+
+right arrow:
+current cursor_pos: 15
+line_length: 19
+
+right arrow:
+current cursor_pos: 16
+line_length: 19
+
+right arrow:
+current cursor_pos: 17
+line_length: 19
+
+right arrow:
+current cursor_pos: 18
+line_length: 19
+
+right arrow:
+current cursor_pos: 19
+line_length: 19
+
+left arrow:
+current cursor_pos: 18
+
+left arrow:
+current cursor_pos: 17
+
+left arrow:
+current cursor_pos: 16
+
+left arrow:
+current cursor_pos: 15
+
+left arrow:
+current cursor_pos: 14
+
+left arrow:
+current cursor_pos: 13
+
+left arrow:
+current cursor_pos: 12
+
+left arrow:
+current cursor_pos: 11
+
+left arrow:
+current cursor_pos: 10
+
+left arrow:
+current cursor_pos: 9
+
+left arrow:
+current cursor_pos: 8
+
+left arrow:
+current cursor_pos: 7
+
+left arrow:
+current cursor_pos: 6
+
+left arrow:
+current cursor_pos: 5
+
+left arrow:
+current cursor_pos: 4
+
+left arrow:
+current cursor_pos: 3
+
+left arrow:
+current cursor_pos: 2
+
+left arrow:
+current cursor_pos: 1
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+left arrow:
+current cursor_pos: 0
+
+right arrow:
+current cursor_pos: 1
+line_length: 19
+
+right arrow:
+current cursor_pos: 2
+line_length: 19
+
+right arrow:
+current cursor_pos: 3
+line_length: 19
+
+right arrow:
+current cursor_pos: 4
+line_length: 19
+
+right arrow:
+current cursor_pos: 5
+line_length: 19
+
+right arrow:
+current cursor_pos: 6
+line_length: 19
+
+right arrow:
+current cursor_pos: 7
+line_length: 19
+
+right arrow:
+current cursor_pos: 8
+line_length: 19
+
+right arrow:
+current cursor_pos: 9
+line_length: 19
+
+right arrow:
+current cursor_pos: 10
+line_length: 19
+
+right arrow:
+current cursor_pos: 11
+line_length: 19
+
+right arrow:
+current cursor_pos: 12
+line_length: 19
+
+right arrow:
+current cursor_pos: 13
+line_length: 19
+
+right arrow:
+current cursor_pos: 14
+line_length: 19
+
+right arrow:
+current cursor_pos: 15
+line_length: 19
+
+right arrow:
+current cursor_pos: 16
+line_length: 19
+
+right arrow:
+current cursor_pos: 17
+line_length: 19
+
+right arrow:
+current cursor_pos: 18
+line_length: 19
+
+right arrow:
+current cursor_pos: 19
+line_length: 19
+
+left arrow:
+current cursor_pos: 18
+
+left arrow:
+current cursor_pos: 17
+
+left arrow:
+current cursor_pos: 16
+
+left arrow:
+current cursor_pos: 15
+
+left arrow:
+current cursor_pos: 14
+
+left arrow:
+current cursor_pos: 13
+
+left arrow:
+current cursor_pos: 12
+
+current cursor_pos: 12
+line_buffer: this is a sttement
+
+right arrow:
+current cursor_pos: 13
+line_length: 18
+
+right arrow:
+current cursor_pos: 14
+line_length: 18
+
+right arrow:
+current cursor_pos: 15
+line_length: 18
+
+right arrow:
+current cursor_pos: 16
+line_length: 18
+
+right arrow:
+current cursor_pos: 17
+line_length: 18
+
+right arrow:
+current cursor_pos: 18
+line_length: 18
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 18
+line_buffer: this is a sttement
+
+current cursor_pos: 17
+line_buffer: this is a sttemen
+
+current cursor_pos: 16
+line_buffer: this is a stteme
+
+left arrow:
+current cursor_pos: 15
+
+left arrow:
+current cursor_pos: 14
+
+left arrow:
+current cursor_pos: 13
+
+left arrow:
+current cursor_pos: 12
+
+current cursor_pos: 13
+line_buffer: this is a sthteme
+
+current cursor_pos: 14
+line_buffer: this is a stheteme
+
+current cursor_pos: 15
+line_buffer: this is a sthelteme
+
+current cursor_pos: 16
+line_buffer: this is a sthellteme
+
+current cursor_pos: 17
+line_buffer: this is a sthelloteme
+
+current cursor_pos: 0
+line_buffer: this is a sthelloteme
+
+current cursor_pos: 21
+line_buffer: this is a sthelloteme
+
+current cursor_pos: 0
+line_buffer: 
+
+current cursor_pos: 9
+line_buffer: prompt --hhell--
+
+
+current cursor_pos: 8
+line_buffer: prompt -hhhell--
+
+
+current cursor_pos: 7
+line_buffer: prompt hhhhell--
+
+
+current cursor_pos: 6
+line_buffer: prompthhhhhell--
+
+
+current cursor_pos: 5
+line_buffer: promphhhhhhell--
+
+
+current cursor_pos: 4
+line_buffer: promhhhhhhhell--
+
+
+current cursor_pos: 3
+line_buffer: prohhhhhhhhell--
+
+
+current cursor_pos: 2
+line_buffer: prhhhhhhhhhell--
+
+
+current cursor_pos: 1
+line_buffer: phhhhhhhhhhell--
+
+
+current cursor_pos: 0
+line_buffer: hhhhhhhhhhhell--
+
+
+current cursor_pos: -1
+line_buffer: hhhhhhhhhhhell--
+
+
+current cursor_pos: -2
+line_buffer: hhhhhhhhhhhell--
+
+
+current cursor_pos: -3
+line_buffer: hhhhhhhhhhhell--
+
+
